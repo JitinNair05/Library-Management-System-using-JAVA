@@ -1,5 +1,5 @@
 Library Management System (Java console app)
-===========================================
+==============================================
 
 What this is
 -  A console-based Java application (no frameworks) that models a small library system.
