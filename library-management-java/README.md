@@ -24,7 +24,7 @@ javac -d out (Get-ChildItem -Recurse -Filter *.java).FullName
 
 # run
 java -cp out app.Main
-```
+``
 
 Data files
 - `data/books.csv` and `data/members.csv` are used for persistence. The app will create them if missing.
