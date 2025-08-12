@@ -7,7 +7,7 @@ What this is
 - Organized in packages: `app`, `model`, `service`, `util`
 
 How to build & run (Linux / macOS)
-----------------------------------
+-----------------------------------
 ```bash
 # compile
 javac -d out $(find src -name "*.java")
