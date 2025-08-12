@@ -30,5 +30,5 @@ Data files
 - `data/books.csv` and `data/members.csv` are used for persistence. The app will create them if missing.
 
 Notes
-- Plain Java (compatible with Java 11+). No external libraries.
+- Plain Java (compatible with Java 11+). No external libraries..
 - The project includes helper scripts `run.sh` and `run.bat` to compile+run quickly.
